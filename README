@@ -1,0 +1,1 @@
+This C program automates the process of calculating student attendance and determining exam eligibility for an entire class. It uses a loop to process each student sequentially and employs accumulator variables to compile a Class Summary showing key statistics, such as the number of eligible/non-eligible students and the class's average attendance.
